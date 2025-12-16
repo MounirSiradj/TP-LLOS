@@ -1,2 +1,2 @@
 # TP-LLOS
-J'ai modifier le fichier pour le TP.
+Ceci est la deuxième phrase du fichier.
